@@ -1,26 +1,37 @@
 # Aydogdy Agabayev
 
-Founder, [Kratos Labs](https://kratosagents.com) · AI Infrastructure Engineer
+Founder of [Kratos Labs](https://kratosagents.com). I build AI systems that do real work inside a business, and keep doing it after the demo.
 
-**Thesis:** Agents need their own computers.
+## What I build
 
-I build the systems that let AI agents operate as durable coworkers — not chat windows — with files, tools, guardrails, and memory that survive a session.
+Most AI projects stop at a chat window. The ones that pay off run on their own: they pick up the request, do the task in the tools you already use, and leave a record of what they did.
 
-## Hire me for
+That takes three things, and they are what I work on:
 
-Enterprise AI transformation: agent infrastructure, operator systems, and deterministic governance around LLM workflows.
+- **A place for the agent to work.** Its own files, tools and memory, so nothing resets between sessions.
+- **Guardrails.** Hard rules for what it may touch, what needs a human, and what it must never do.
+- **A record.** Every decision written down, so you can check the work instead of trusting it.
 
-## Pinned work
+## Who I work with
 
-| Repo | What it is |
-|------|------------|
-| [operator-os](https://github.com/aidvgg/operator-os) | MIT packaging of Kratos OS — file-native operator system with a full Northwind demo |
-| [n8n-cli](https://github.com/aidvgg/n8n-cli) | Go CLI for node-level n8n operations |
-| [constitution-engine](https://github.com/aidvgg/constitution-engine) | Deterministic governance engine for agent autonomy bands and hash-chained decisions |
-| [n8n-mcp](https://github.com/aidvgg/n8n-mcp) | MCP server for typed n8n workflow control |
-| [agentbase](https://github.com/aidvgg/agentbase) | Multi-agent Discord infrastructure (OpenClaw/Hermes lineage) |
+Business owners and agencies who want the manual, repetitive part of their operation handled by software. Work I take on: client onboarding, quoting and invoicing, CRM systems, and internal tools that connect the software you already pay for.
 
-## Links
+## Proof you can read
+
+| Project | What it shows |
+|---|---|
+| [operator-os](https://github.com/aidvgg/operator-os) | A whole consultancy run from one git repository: proposals, invoices, deadlines and agent guardrails. Open source. Installed for two other operators. |
+| [n8n-mcp](https://github.com/aidvgg/n8n-mcp) | Lets an AI assistant build, run and debug n8n automations through 29 typed tools. |
+| [n8n-cli](https://github.com/aidvgg/n8n-cli) | A Go command-line tool that lets an agent change one step of an n8n workflow without touching the rest. |
+| [constitution-engine](https://github.com/aidvgg/constitution-engine) | A rules engine that decides how much freedom an agent gets, and hash-chains every decision it makes. |
+| [agentbase](https://github.com/aidvgg/agentbase) | Several Claude agents running in Discord, each with its own role and tools, plus a status dashboard. |
+
+One client's own account of an Operator OS install, from a [Contra review](https://contra.com/aidvgg_kratos/work): pulling project requirements together went from about six hours a week to about one.
+
+Client work is private, so it is not on this profile.
+
+## Work with me
 
 - Site: [kratosagents.com](https://kratosagents.com)
+- Contra: [reviews and past work](https://contra.com/aidvgg_kratos/work)
 - X: [@aidvgg](https://x.com/aidvgg)
