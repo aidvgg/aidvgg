@@ -8,29 +8,19 @@ I build the systems that let AI agents operate as durable coworkers — not chat
 
 ## Hire me for
 
-Enterprise AI transformation: agent infrastructure, operator systems, and deterministic governance around LLM workflows. Category is enterprise AI — not general web/app delivery rebranded as AI.
+Enterprise AI transformation: agent infrastructure, operator systems, and deterministic governance around LLM workflows.
 
 ## Pinned work
 
-| Repo | Status |
-|------|--------|
-| [operator-os](https://github.com/aidvgg/operator-os) | MIT packaging of Kratos OS with a fictional Northwind demo. Supporting template — not live client outcomes. |
-| [n8n-cli](https://github.com/aidvgg/n8n-cli) | Go CLI for node-level n8n ops. Conceived and directed here; core implementation via Paolo's Slack coding agent (Paolo-identity commits); four later direct commits as `aidvgg`. Concept, orchestration, and direct commits — not sole authorship of every core line. |
-| [constitution-engine](https://github.com/aidvgg/constitution-engine) | Deterministic governance **prototype**. No live LLM, no users, not production. |
-| [n8n-mcp](https://github.com/aidvgg/n8n-mcp) | MCP server for n8n workflow control. Engineering sample. |
-| [agentbase](https://github.com/aidvgg/agentbase) | **Archived product** (OpenClaw/Hermes OSS lineage). Kept for thesis/history only. |
+| Repo | What it is |
+|------|------------|
+| [operator-os](https://github.com/aidvgg/operator-os) | MIT packaging of Kratos OS — file-native operator system with a full Northwind demo |
+| [n8n-cli](https://github.com/aidvgg/n8n-cli) | Go CLI for node-level n8n operations |
+| [constitution-engine](https://github.com/aidvgg/constitution-engine) | Deterministic governance engine for agent autonomy bands and hash-chained decisions |
+| [n8n-mcp](https://github.com/aidvgg/n8n-mcp) | MCP server for typed n8n workflow control |
+| [agentbase](https://github.com/aidvgg/agentbase) | Multi-agent Discord infrastructure (OpenClaw/Hermes lineage) |
 
 ## Links
 
 - Site: [kratosagents.com](https://kratosagents.com)
 - X: [@aidvgg](https://x.com/aidvgg)
-
-## Will not claim
-
-- Non-AI client work as enterprise AI transformation proof
-- Howard testimonial as AI outcomes evidence (working relationship only)
-- Live client outcomes from operator-os / Northwind demo
-- agentbase as an active product
-- constitution-engine as production or multi-user
-- Sole authorship of every line of n8n-cli
-- Fake metrics, Gladium AI branding, or emoji-spam portfolio theater
